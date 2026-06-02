@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/Предметы/Оружие/Тяжёлое оружие/Hammer/","dg-note-properties":{"производитель":"Aether Core","точность":1,"урон":"8d8 (ignores 4 armor)","размер":"3 × 1 Big","скорострельность":1,"емкость_магазина":"10 capacitors (1 shot)","дальность":"Snipe"}}
+---
+
+Heavy railgun.
