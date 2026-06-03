@@ -1,5 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Предметы/Оружие/Рукопашное оружие/Drift/","dg-note-properties":{"производитель":"Coral Forge","точность":0,"урон":"2d6","размер":"Medium","скорострельность":1,"емкость_магазина":null,"дальность":"CQB, Short"}}
+{"dg-publish":true,"permalink":"/Предметы/Оружие/Рукопашное оружие/Drift/","dg-note-properties":{"производитель":"Coral Forge","точность":0,"урон":"2d6","размер":"Medium","скорострельность":1,"емкость_магазина":null,"дальность":"CQB, Short","крафт_металл":16,"крафт_пластик":16,"крафт_энергия":20}}
 ---
 
-Harpoon. After throwing it, can be pulled back. If stuck in a creature, it may contest with move things skill check. Winner can pull loser up to number of meters their roll surpasses loser roll. Regardless of the result, target receives 1d6 additional damage.
+**🎯 Точность:** 
+**💥 Урон:** 
+**📦 Размер в слотах:** 
+**🔄 Скорострельность:** 
+**🔫 Ёмкость магазина:** 
+**🌐 Дальность:** 
+
+---
+Гарпун. После броска может быть притянут назад. Если застрял в существе, оно может сопротивляться броском [[Механики/Характеристики персонажа/Навыки/Move things\|Move things]]. Победитель может притянуть проигравшего на столько метров, на сколько его бросок превзошёл встречный бросок. Вне зависимости от результата, цель получает 1d6 дополнительного урона.
