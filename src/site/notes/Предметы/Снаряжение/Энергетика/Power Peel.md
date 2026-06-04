@@ -1,5 +1,5 @@
 ---
-{"размер":"Tiny","стоимость":1,"dg-publish":true,"aliases":null,"крафт_пластик":1,"крафт_энергия":1,"permalink":"/Предметы/Снаряжение/Энергетика/Power Peel/","dgPassFrontmatter":true,"dg-note-properties":{"размер":"Tiny","стоимость":1,"aliases":null,"крафт_пластик":1,"крафт_энергия":1}}
+{"размер":"Tiny","стоимость":1,"dg-publish":true,"aliases":null,"крафт_пластик":"1","крафт_энергия":1,"permalink":"/Предметы/Снаряжение/Энергетика/Power Peel/","dgPassFrontmatter":true,"dg-note-properties":{"размер":"Tiny","стоимость":1,"aliases":null,"крафт_пластик":"1","крафт_энергия":1}}
 ---
 
 **📦 Размер:** Tiny
