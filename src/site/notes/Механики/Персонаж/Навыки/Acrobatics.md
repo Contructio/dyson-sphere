@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Acrobatics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Acrobatics/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Навык, применяющийся для паркура, уворотов в ближнем бою и демонстрации своей ловкости окружающим. 

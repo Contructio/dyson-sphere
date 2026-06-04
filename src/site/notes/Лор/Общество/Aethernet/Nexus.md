@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Aethernet/Nexus/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Aethernet/Nexus/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 [[Лор/Технологии/Aethernet\|Агрегатор]] новостей со всем, что поисходит на [[Лор/Космология/Сфера\|Сфере]]. Алгоритмы [[Лор/Общество/Корпорации/Aether Core\|Aether Core]] подстраивают контент под индивидуальные предпочтения. Если зайти туда, нужно сделать бросок [[Механики/Персонаж/Навыки/Resist Persuasion\|Resist Persuasion]], чтобы не попасть в ловушку бесконечного скроллинга до тех пор, пока не свалишься от усталости.

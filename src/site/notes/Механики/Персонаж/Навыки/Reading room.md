@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Reading room/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Reading room/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Навык, отвечающий за понимание общего настроения, чтение невербальных знаков и умение распознать ложь. 

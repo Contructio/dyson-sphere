@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Pain tolerance/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Pain tolerance/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Навык, отвечающий за способность переносить боль, не отключаться при виде собственной крови и игнорировать травмы.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Sineva/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Sineva/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Компания, основанная мигрантом из [[Жираф\|Жирафа]]. Производит бытовую технику: холодильники, кухонные комбайны, дегидраторы и прочие.

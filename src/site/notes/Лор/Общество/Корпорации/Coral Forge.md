@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Coral Forge/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Coral Forge/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 #корпорация

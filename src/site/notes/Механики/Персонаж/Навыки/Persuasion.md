@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Persuasion/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Механики/Персонаж/Навыки/Persuasion/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Навык, отвечающий за чистоту и грамотность речи, умение подобрать правильные слова и располагать к себе людей.

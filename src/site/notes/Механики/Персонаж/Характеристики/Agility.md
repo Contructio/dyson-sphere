@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Механики/Персонаж/Характеристики/Agility/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Механики/Персонаж/Характеристики/Agility/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Ловкость, гибкость, скорость реакции. Определяет способность [[Персонаж\|персонажа]] двигаться так, чтобы достичь своей цели. 

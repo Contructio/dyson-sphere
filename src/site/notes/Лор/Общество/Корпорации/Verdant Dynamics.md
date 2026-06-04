@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Verdant Dynamics/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Verdant Dynamics/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 #корпорация

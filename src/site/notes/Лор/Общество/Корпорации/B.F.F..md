@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/B.F.F./","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/B.F.F./","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 #корпорация

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Aether Core/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Aether Core/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 #корпорация 

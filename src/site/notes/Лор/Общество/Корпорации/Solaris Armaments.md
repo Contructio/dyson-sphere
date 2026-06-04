@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Solaris Armaments/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Лор/Общество/Корпорации/Solaris Armaments/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 #корпорация 
