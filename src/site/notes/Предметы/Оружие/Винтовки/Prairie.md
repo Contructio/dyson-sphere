@@ -21,4 +21,4 @@
 	* 🧬 **Органика:** "0"
 	* 🧪 **Пластик:** 16
 
-![3550f9bf1e0792ade9fdea5173a71eb9.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/3550f9bf1e0792ade9fdea5173a71eb9.jpg)
+![Prairie.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Prairie.jpg)

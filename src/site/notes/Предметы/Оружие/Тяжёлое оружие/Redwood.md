@@ -20,4 +20,4 @@
 	* 🧬 **Органика:** "0"
 	* 🧪 **Пластик:** 8
 
-![dbc33a49ae765240113eac921f5ee3f0.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/dbc33a49ae765240113eac921f5ee3f0.jpg)
+![Redwood.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Redwood.jpg)

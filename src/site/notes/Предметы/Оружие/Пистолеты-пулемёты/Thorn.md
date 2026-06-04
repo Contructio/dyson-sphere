@@ -20,4 +20,4 @@
 	* 🧬 **Органика:** 16
 	* 🧪 **Пластик:** 16
 
-![27fbe1ac5145d19f9076cf06b4285cab.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/27fbe1ac5145d19f9076cf06b4285cab.jpg)
+![Thorn.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Thorn.jpg)

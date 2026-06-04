@@ -20,4 +20,4 @@
 	* 🧬 **Органика:** "0"
 	* 🧪 **Пластик:** 16
 
-![b9a0a5b781dde815d6572499a7b8fc70.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/b9a0a5b781dde815d6572499a7b8fc70.jpg)
+![Harvester.jpg](/img/user/%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/Harvester.jpg)
