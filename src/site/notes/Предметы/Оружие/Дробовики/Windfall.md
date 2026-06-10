@@ -19,3 +19,4 @@
 	* 🔩 **Металл:** 32
 	* 🧬 **Органика:** "0"
 	* 🧪 **Пластик:** "0"
+![[SA-3_Mozambique_menu_icon_TF2 1.webp\|SA-3_Mozambique_menu_icon_TF2 1.webp]]
