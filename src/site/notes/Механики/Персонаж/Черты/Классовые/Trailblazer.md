@@ -1,5 +1,5 @@
 ---
-{"требование":"Recon LVL 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Trailblazer/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Recon LVL 3+"}}
+{"требование":"Recon LVL 3+","dg-publish":true,"эффект":"Переброс [[Stealth]] за предметы","permalink":"/Механики/Персонаж/Черты/Классовые/Trailblazer/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Recon LVL 3+","эффект":"Переброс [[Stealth]] за предметы"}}
 ---
 
 **💡 Требование:** Recon LVL 3+

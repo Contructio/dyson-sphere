@@ -1,5 +1,5 @@
 ---
-{"требование":"Pilot LVL 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Free ride/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Pilot LVL 3+"}}
+{"требование":"Pilot LVL 3+","dg-publish":true,"эффект":"Бесплатный проезд","permalink":"/Механики/Персонаж/Черты/Классовые/Free ride/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Pilot LVL 3+","эффект":"Бесплатный проезд"}}
 ---
 
 **💡 Требование:** Pilot LVL 3+

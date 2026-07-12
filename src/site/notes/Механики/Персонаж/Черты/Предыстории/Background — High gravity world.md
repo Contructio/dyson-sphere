@@ -1,5 +1,5 @@
 ---
-{"требование":"No other background feats","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Предыстории/Background — High gravity world/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats"}}
+{"требование":"No other background feats","dg-publish":true,"эффект":"Повышение силы ценой роста","permalink":"/Механики/Персонаж/Черты/Предыстории/Background — High gravity world/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats","эффект":"Повышение силы ценой роста"}}
 ---
 
 **💡 Требование:** No other background feats

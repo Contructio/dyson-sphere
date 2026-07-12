@@ -1,5 +1,5 @@
 ---
-{"требование":"Diplomat lvl 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Diplomatic Immunity/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Diplomat lvl 3+"}}
+{"требование":"Diplomat lvl 3+","dg-publish":true,"эффект":"Защита от закона","permalink":"/Механики/Персонаж/Черты/Классовые/Diplomatic Immunity/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Diplomat lvl 3+","эффект":"Защита от закона"}}
 ---
 
 **💡 Требование:** Diplomat lvl 3+

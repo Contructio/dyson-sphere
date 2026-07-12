@@ -1,5 +1,5 @@
 ---
-{"требование":"Intruder LVL 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Stuffing it/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Intruder LVL 3+"}}
+{"требование":"Intruder LVL 3+","dg-publish":true,"эффект":"Возможность нести больше Small предметов","permalink":"/Механики/Персонаж/Черты/Классовые/Stuffing it/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Intruder LVL 3+","эффект":"Возможность нести больше Small предметов"}}
 ---
 
 **💡 Требование:** Intruder LVL 3+

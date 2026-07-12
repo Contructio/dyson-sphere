@@ -1,5 +1,5 @@
 ---
-{"требование":"Scientist Lvl 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Consilium/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Scientist Lvl 3+"}}
+{"требование":"Scientist Lvl 3+","dg-publish":true,"эффект":"Запрос помощи у научного сообщества","permalink":"/Механики/Персонаж/Черты/Классовые/Consilium/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Scientist Lvl 3+","эффект":"Запрос помощи у научного сообщества"}}
 ---
 
 **💡 Требование:** Scientist Lvl 3+

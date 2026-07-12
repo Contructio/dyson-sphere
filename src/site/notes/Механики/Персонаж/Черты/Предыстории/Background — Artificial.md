@@ -1,5 +1,5 @@
 ---
-{"требование":"No other background feats","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Предыстории/Background — Artificial/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats"}}
+{"требование":"No other background feats","dg-publish":true,"эффект":"Персонаж — робот","permalink":"/Механики/Персонаж/Черты/Предыстории/Background — Artificial/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats","эффект":"Персонаж — робот"}}
 ---
 
 **💡 Требование:** No other background feats

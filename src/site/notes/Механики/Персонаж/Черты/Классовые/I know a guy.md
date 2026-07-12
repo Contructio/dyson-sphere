@@ -1,5 +1,5 @@
 ---
-{"требование":"Diplomat lvl 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/I know a guy/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Diplomat lvl 3+"}}
+{"требование":"Diplomat lvl 3+","dg-publish":true,"эффект":"Доступ к любым предметам по повышенной цене","permalink":"/Механики/Персонаж/Черты/Классовые/I know a guy/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Diplomat lvl 3+","эффект":"Доступ к любым предметам по повышенной цене"}}
 ---
 
 **💡 Требование:** Diplomat lvl 3+

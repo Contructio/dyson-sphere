@@ -1,5 +1,5 @@
 ---
-{"требование":"No other background feats","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Предыстории/Background — Low gravity world/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats"}}
+{"требование":"No other background feats","dg-publish":true,"эффект":"Повышенная ловкость ценой более хрупких костей","permalink":"/Механики/Персонаж/Черты/Предыстории/Background — Low gravity world/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats","эффект":"Повышенная ловкость ценой более хрупких костей"}}
 ---
 
 **💡 Требование:** No other background feats

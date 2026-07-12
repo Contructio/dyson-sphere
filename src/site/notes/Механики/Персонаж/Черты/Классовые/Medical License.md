@@ -1,5 +1,5 @@
 ---
-{"требование":"Medic LVL 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Medical License/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Medic LVL 3+"}}
+{"требование":"Medic LVL 3+","dg-publish":true,"эффект":"Наличие медицинской лицензии","permalink":"/Механики/Персонаж/Черты/Классовые/Medical License/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Medic LVL 3+","эффект":"Наличие медицинской лицензии"}}
 ---
 
 **💡 Требование:** Medic LVL 3+

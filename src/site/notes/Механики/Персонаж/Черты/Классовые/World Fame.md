@@ -1,5 +1,5 @@
 ---
-{"требование":"Artist lvl 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/World Fame/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Artist lvl 3+"}}
+{"требование":"Artist lvl 3+","dg-publish":true,"эффект":"Наличие фанатов","permalink":"/Механики/Персонаж/Черты/Классовые/World Fame/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Artist lvl 3+","эффект":"Наличие фанатов"}}
 ---
 
 **💡 Требование:** Artist lvl 3+

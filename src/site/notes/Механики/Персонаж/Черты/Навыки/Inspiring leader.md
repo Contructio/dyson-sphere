@@ -1,5 +1,5 @@
 ---
-{"требование":"[[Механики/Персонаж/Навыки/Persuasion\|Persuasion]] 3+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Навыки/Inspiring leader/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Механики/Персонаж/Навыки/Persuasion\|Persuasion]] 3+"}}
+{"требование":"[[Механики/Персонаж/Навыки/Persuasion\|Persuasion]] 3+","dg-publish":true,"эффект":"Вдохновение речью","permalink":"/Механики/Персонаж/Черты/Навыки/Inspiring leader/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Механики/Персонаж/Навыки/Persuasion\|Persuasion]] 3+","эффект":"Вдохновение речью"}}
 ---
 
 **💡 Требование:** [[Механики/Персонаж/Навыки/Persuasion\|Persuasion]] 3+

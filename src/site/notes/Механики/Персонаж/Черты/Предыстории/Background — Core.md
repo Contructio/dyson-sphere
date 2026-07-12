@@ -1,5 +1,5 @@
 ---
-{"требование":"No other background feats","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Предыстории/Background — Core/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats"}}
+{"требование":"No other background feats","dg-publish":true,"эффект":"Биологическое бессмертие","permalink":"/Механики/Персонаж/Черты/Предыстории/Background — Core/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"No other background feats","эффект":"Биологическое бессмертие"}}
 ---
 
 **💡 Требование:** No other background feats

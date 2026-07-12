@@ -1,5 +1,5 @@
 ---
-{"требование":"Soldier lvl 5+","dg-publish":true,"permalink":"/Механики/Персонаж/Черты/Классовые/Tactical mind/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Soldier lvl 5+"}}
+{"требование":"Soldier lvl 5+","dg-publish":true,"эффект":"Смена порядка инициативы","permalink":"/Механики/Персонаж/Черты/Классовые/Tactical mind/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"Soldier lvl 5+","эффект":"Смена порядка инициативы"}}
 ---
 
 **💡 Требование:** Soldier lvl 5+
