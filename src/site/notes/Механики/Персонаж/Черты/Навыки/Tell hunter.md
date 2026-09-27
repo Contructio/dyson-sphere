@@ -1,5 +1,5 @@
 ---
-{"требование":"[[Read Room\|Read Room]] 3+","dg-publish":true,"эффект":"Запрет ГМу на враньё","permalink":"/Механики/Персонаж/Черты/Навыки/Tell hunter/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Read Room\|Read Room]] 3+","эффект":"Запрет ГМу на враньё"}}
+{"требование":"[[Read Room]] 3+","dg-publish":true,"эффект":"Запрет ГМу на враньё","permalink":"/Механики/Персонаж/Черты/Навыки/Tell hunter/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Read Room]] 3+","эффект":"Запрет ГМу на враньё"}}
 ---
 
 **💡 Требование:** [[Read Room\|Read Room]] 3+

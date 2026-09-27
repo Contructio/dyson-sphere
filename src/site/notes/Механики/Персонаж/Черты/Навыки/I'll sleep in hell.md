@@ -1,5 +1,5 @@
 ---
-{"требование":"[[Механики/Персонаж/Навыки/Endurance\|Endurance]] 5+","dg-publish":true,"эффект":"Возможность временно не спать","permalink":"/Механики/Персонаж/Черты/Навыки/I'll sleep in hell/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Механики/Персонаж/Навыки/Endurance\|Endurance]] 5+","эффект":"Возможность временно не спать"}}
+{"требование":"[[Endurance]] 5+","dg-publish":true,"эффект":"Возможность временно не спать","permalink":"/Механики/Персонаж/Черты/Навыки/I'll sleep in hell/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Endurance]] 5+","эффект":"Возможность временно не спать"}}
 ---
 
 **💡 Требование:** [[Механики/Персонаж/Навыки/Endurance\|Endurance]] 5+

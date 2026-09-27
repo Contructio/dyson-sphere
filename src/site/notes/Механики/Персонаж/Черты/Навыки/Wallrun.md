@@ -1,5 +1,5 @@
 ---
-{"требование":"[[Механики/Персонаж/Навыки/Acrobatics\|Acrobatics]] 7+","dg-publish":true,"эффект":"Бег по стенам","permalink":"/Механики/Персонаж/Черты/Навыки/Wallrun/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Механики/Персонаж/Навыки/Acrobatics\|Acrobatics]] 7+","эффект":"Бег по стенам"}}
+{"требование":"[[Acrobatics]] 7+","dg-publish":true,"эффект":"Бег по стенам","permalink":"/Механики/Персонаж/Черты/Навыки/Wallrun/","dgPassFrontmatter":true,"dg-note-properties":{"требование":"[[Acrobatics]] 7+","эффект":"Бег по стенам"}}
 ---
 
 **💡 Требование:** [[Механики/Персонаж/Навыки/Acrobatics\|Acrobatics]] 7+
